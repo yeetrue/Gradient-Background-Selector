@@ -22,7 +22,7 @@ function random(){
 
     css.textContent = body.style.background + ";";
 }
-
+ 
 randomBtn.addEventListener("click", random);
 
 color1.addEventListener("input", colorSelector);
